@@ -4,4 +4,5 @@ Driverless cars are getting closer to reality and at a faster pace than ever. Bu
 
 Well here of course as the name suggests we are not concentrating on a new car, rather our interest is in knowing the prices of used cars across the country whether it is a royal l luxury sedan or a cheap budget utility vehicle. In this hackathon, you will be predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
 
+using rmsle as prediction measure
 Source machinehack.
